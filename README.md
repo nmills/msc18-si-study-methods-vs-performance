@@ -10,21 +10,21 @@ Kumaran Kugathasan
 
 ______________________________________________________________________
 
-Contents
+## Contents
 
 ### -- data-visualisations
 
 Visualisation of the data per question
 
--- questionnaire
+### -- questionnaire
 
 PDF printed soft copy of the Questionnaire used
 
--- responses-to-questionnaire
+### -- responses-to-questionnaire
 
 Responses to the Questionnaire in MS Excel format (Will require MS Excel, Open Office, Google Docs or Office 365)
 In a raw format and in cleaned format
 
--- scripts
+### -- scripts
 
 R scripts used for simulations used in hypothesis testing.
